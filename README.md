@@ -69,7 +69,8 @@ print(f"Received {data!r}")
 
 
 ### Client side:
-![out2](https://github.com/Guru-Guna/Echoserver/assets/93427255/a604610b-2220-4d8d-a5f4-fbf8b4349aab)
+
+![out2](https://github.com/Guru-Guna/Echoserver/assets/93427255/b7bc009a-6cd7-4027-b3de-9b609a51b301)
 
 
 ## RESULT:
